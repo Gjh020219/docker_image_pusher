@@ -1,2 +1,2 @@
 apache/apisix:3.11.0-debian
-omicsclass/amoliseq-q1
+ampliseq-q1
